@@ -5,10 +5,10 @@
 html,
 body {
     margin: 0px;
+    height: 100%;
 }
 
-body {
-    height: 100vh;
+.gradient {
     /* margin: 10px; */
     font: 'Raleway', sans-serif;
     color: rgba(0, 0, 0, 0.5);
